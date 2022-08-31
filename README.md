@@ -1,2 +1,2 @@
-# growpro
+# growPro
 Grow Pro Repository
